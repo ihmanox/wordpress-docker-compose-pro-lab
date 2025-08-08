@@ -1,5 +1,3 @@
-# wordpress-docker-compose
-
 # WordPress con Docker, Nginx y PostgreSQL
 
 ![WordPress](https://img.shields.io/badge/WordPress-6.4-blue.svg)
