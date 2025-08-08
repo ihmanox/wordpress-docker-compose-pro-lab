@@ -25,7 +25,7 @@ Configuración profesional de WordPress optimizada para **servidores Linux y WSL
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/wordpress-docker-pro.git
+git clone https://github.com/ihmanox/wordpress-docker-compose-pro-lab.git
 cd wordpress-docker-pro
 
 # Ejecutar instalación automática
